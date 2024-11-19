@@ -896,7 +896,7 @@ Invalid URL (Other - 301): https://dr-hutchinson-what-do-ais-know-about-history-
 Invalid URL (Other - 308): https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/">https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/</a>.</div>
 Invalid URL (Other - 301): http://site.ebrary.com/id/10158052">http://site.ebrary.com/id/10158052</a>.</div>
 Invalid URL (Other - 301): https://www.bbc.com/news/articles/cd11gzejgz4o">https://www.bbc.com/news/articles/cd11gzejgz4o</a>.</div>
-Invalid URL (Other - 202): https://aiandwriting.hcommons.org/2024/10/08/using-the-student-guide-to-ai-literacy/">https://aiandwriting.hcommons.org/2024/10/08/using-the-student-guide-to-ai-literacy/</a>.</div>
+Invalid URL (Other - 403): https://aiandwriting.hcommons.org/2024/10/08/using-the-student-guide-to-ai-literacy/">https://aiandwriting.hcommons.org/2024/10/08/using-the-student-guide-to-ai-literacy/</a>.</div>
 Invalid URL (Other - 301): https://blog.ehri-project.eu/2018/08/27/named-entity-recognition/">https://blog.ehri-project.eu/2018/08/27/named-entity-recognition/</a>.</div>
 Invalid URL (Other - 401): https://huggingface.co/datasets/PleIAs/Post-OCR-Correction">https://huggingface.co/datasets/PleIAs/Post-OCR-Correction</a>.</div>
 Invalid URL (Other - 302): https://millercenter.org/the-presidency/presidential-speeches">https://millercenter.org/the-presidency/presidential-speeches</a>.</div>
@@ -904,7 +904,7 @@ Invalid URL (Other - 403): https://reports.collegeboard.org/media/pdf/program-su
 Invalid URL (Other - 302): https://www.rit.edu/news/artificial-intelligence-aids-cultural-heritage-researchers-documenting-and-teaching-oral">https://www.rit.edu/news/artificial-intelligence-aids-cultural-heritage-researchers-documenting-and-teaching-oral</a>.</div>
 Invalid URL (Other - 403): https://www.css.cnrs.fr/using-whisper-to-transcribe-oral-interviews/">https://www.css.cnrs.fr/using-whisper-to-transcribe-oral-interviews/</a>.</div>
 Invalid URL (Other - 406): https://spectrum.ieee.org/open-ais-powerful-text-generating-tool-is-ready-for-business">https://spectrum.ieee.org/open-ais-powerful-text-generating-tool-is-ready-for-business</a>.</div>
-Invalid URL (Other - 202): https://hcommons.org/deposits/item/hc:41973/">https://hcommons.org/deposits/item/hc:41973/</a>.</div>
+Invalid URL (Other - 403): https://hcommons.org/deposits/item/hc:41973/">https://hcommons.org/deposits/item/hc:41973/</a>.</div>
 
 > [!TIP]
 > Even if some of the urls listed above don't seem to be broken, try to replace them with the valid ones as they might become unavailable soon.
